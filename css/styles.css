@@ -67,6 +67,13 @@ body {
 
   margin-left: 200px;
 }
+.slogan-smv-title{
+  color: #333;
+  font-family: "Rubik", sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  text-align:right;
+}
 .download-btn {
   margin-top: 150px;
 }
@@ -191,10 +198,30 @@ body {
 
   letter-spacing: 0;
 }
+.pay-method-text2{
+  font-family: "Rubik", sans-serif;
+  position: relative;
+  padding-left: 730px;
+  margin-top: -185px;
+  font-size: 16px;
+  font-weight: 400;
+
+  letter-spacing: 0;
+}
+.pay-method-text3{
+  font-family: "Rubik", sans-serif;
+  position: relative;
+  padding-left: 0px;
+  margin-top: 0px;
+  font-size: 16px;
+  font-weight: 400;
+
+  letter-spacing: 0;
+}
 .footer {
-  background-color: #041119;
+  background-color: #eef5f1;
   color: white;
-  padding: 105px;
+  padding: 100px;
   bottom: 0;
 }
 .footer > p {
