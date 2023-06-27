@@ -6,7 +6,7 @@ body {
   height: 100%;
 }
 .upside-holder {
-  background: url("../images/.jpg");
+  
   background-color: white;
   background-repeat: no-repeat;
   background-size: cover;
@@ -20,7 +20,8 @@ body {
 }
 
 .whitebg {
-  background-color: #ffffff;
+  background-color: #f8f8f8;
+  min-height: 100px;
 }
 
 .nav > li > a:hover {
@@ -29,7 +30,7 @@ body {
   border-bottom: 2px solid white;
 }
 .nav > li > a {
-  color: white;
+  color: rgb(241, 241, 230);
   font-family: "Lato", sans-serif;
   font-size: 16px;
   border: 2px solid transparent;
@@ -38,7 +39,7 @@ body {
   float: none;
 }
 .icons > a {
-  color: white;
+  color: rgb(245, 238, 238);
   font-size: 20px;
   margin-left: 10px;
 }
@@ -49,14 +50,18 @@ body {
   color: #333;
   font-family: "Rubik", sans-serif;
   font-weight: 900;
-  font-size: 42px;
+  font-size: 32px;
+ margin-bottom: 30px;
+
 }
 .slogan-s-title {
   color: #333;
   font-family: "Rubik", sans-serif;
   font-weight: 900;
-  font-size: 42px;
-  margin-left: 200px;
+  font-size: 32px;
+  margin-top: -40px;
+  padding-left: 300px;
+  
 }
 .slogan-sm-title {
   color: #333;
@@ -187,16 +192,28 @@ body {
   padding-left: 14px;
   margin-top: 50px;
   font-size: 16px;
-  font-weight: 400;
+  
 
   letter-spacing: 0;
 }
 .footer {
   background-color: #041119;
+  max-width: 100%;
+  margin-left: 0%;
+  margin-right: ;
   color: white;
   padding: 15px;
   bottom: 0;
 }
+#layoutAuthentication #layoutAuthentication_footer {
+  min-width: 100px;
+}
+.text-muted {
+  --bs-text-opacity: 1;
+  color: #e9eef1 !important;
+}
+
+
 .footer > p {
   margin: 0;
   font-family: "Rubik", sans-serif;
@@ -209,6 +226,7 @@ body {
 @media only screen and (max-width: 768px) {
   .text-part {
     margin-top: 85px;
+    position: relative;
   }
   .slogan-f-title {
     color: #041119;
@@ -221,7 +239,7 @@ body {
     margin-left: 150px !important;
   }
   .slogan-sm-title {
-    color: #041119;
+    color: #000408;
     margin-left: 0;
   }
   .download-btn {
@@ -240,7 +258,7 @@ body {
 @media only screen and (max-width: 600px) {
   /* For phones: */
   .upside-holder {
-    background: url("../images/1.jpg");
+   
     background-repeat: no-repeat;
     background-size: 600px 400px;
     background-color: white;
@@ -281,20 +299,58 @@ body {
     display: none;
   }
   .main-phone {
-    margin-top: 55px;
+    margin-top: 35px;
+    
   }
 
   .picon {
     max-height: 40px;
     max-width: 40px;
+    
   }
 
   .pay-tile {
     cursor: pointer;
     margin-bottom: 10px;
     box-shadow: 0px 5px 10px rgba(36, 36, 36, 0.08);
-    min-height: 50px;
+    min-height: 40px;
     max-width: 12.5% !important;
+
+    padding: 2px;
+  }
+  .footeri{
+    cursor: pointer;
+    margin-bottom: 10px;
+    box-shadow: 0px 5px 10px rgba(36, 36, 36, 0.08);
+    min-height: 40px;
+    max-width: 90.5% !important;
+
+    padding: 2px;
+  }
+  .footeri2{
+    cursor: pointer;
+    margin-bottom: 10px;
+    box-shadow: 0px 5px 10px rgba(36, 36, 36, 0.08);
+    min-height: 40px;
+    max-width: 40.5% !important;
+
+    padding: 2px;
+  }
+  .footeri3{
+    cursor: pointer;
+    margin-bottom: 10px;
+    box-shadow: 0px 5px 10px rgba(36, 36, 36, 0.08);
+    min-height: 40px;
+    max-width: 80.5% !important;
+
+    padding: 2px;
+  }
+  .footeri4{
+    cursor: pointer;
+    margin-bottom: 10px;
+    box-shadow: 0px 5px 10px rgba(36, 36, 36, 0.08);
+    min-height: 40px;
+    max-width: 90.5% !important;
 
     padding: 2px;
   }
