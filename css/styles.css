@@ -332,7 +332,7 @@ body {
     margin-bottom: 10px;
     box-shadow: 0px 5px 10px rgba(36, 36, 36, 0.08);
     min-height: 40px;
-    max-width: 40.5% !important;
+    max-width: 49.5% !important;
 
     padding: 2px;
   }
@@ -341,7 +341,7 @@ body {
     margin-bottom: 10px;
     box-shadow: 0px 5px 10px rgba(36, 36, 36, 0.08);
     min-height: 40px;
-    max-width: 80.5% !important;
+    max-width: 150.5% !important;
 
     padding: 2px;
   }
