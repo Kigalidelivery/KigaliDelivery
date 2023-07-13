@@ -9,12 +9,6 @@ body {
   background: url("../images/1.png");
   background-color: rgb(5, 36, 48);
   background-size: -20px;
-  background-color: rgb(2, 26, 34);
-  height: 100%;
-}
-.upside-holder {
-  
-  background-color: rgb(255, 255, 255);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -30,8 +24,6 @@ body {
   background-color: rgb(5, 36, 48);
   min-height: -150px;
   size: -150px;
-  background-color: rgb(255, 255, 255);
-  min-height: 100px;
 }
 
 .nav > li > a:hover {
@@ -325,8 +317,6 @@ clear: both;
     background-size: 600px 400px;
     background-color: rgb(5, 36, 48);
   }
-}
-@media only screen and (max-width: 537px) {
   .text-part {
     margin-top: 85px;
     position: relative;
@@ -550,7 +540,6 @@ clear: both;
   color: black;
   text-decoration: none;
   cursor: pointer;
-<<<<<<< HEAD
 }
 
 
@@ -750,6 +739,4 @@ a {
   .info h1 {
     margin: 0;
   }
-=======
->>>>>>> ed8dc28e71159805f3e68101d052fd2d045c5c0b
 }
