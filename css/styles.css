@@ -2,7 +2,6 @@ html,
 body {
   margin: 0;
   padding: 0;
-<<<<<<< HEAD
   background-color: rgb(5, 36, 48);
   height: 100%;
 }
@@ -10,14 +9,12 @@ body {
   background: url("../images/1.png");
   background-color: rgb(5, 36, 48);
   background-size: -20px;
-=======
   background-color: rgb(2, 26, 34);
   height: 100%;
 }
 .upside-holder {
   
   background-color: rgb(255, 255, 255);
->>>>>>> ed8dc28e71159805f3e68101d052fd2d045c5c0b
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -30,14 +27,11 @@ body {
 }
 
 .whitebg {
-<<<<<<< HEAD
   background-color: rgb(5, 36, 48);
   min-height: -150px;
   size: -150px;
-=======
   background-color: rgb(255, 255, 255);
   min-height: 100px;
->>>>>>> ed8dc28e71159805f3e68101d052fd2d045c5c0b
 }
 
 .nav > li > a:hover {
@@ -324,7 +318,6 @@ clear: both;
 
 
 
-<<<<<<< HEAD
 @media only screen and (max-width: 992px) {
   .upside-holder {
    
@@ -332,9 +325,8 @@ clear: both;
     background-size: 600px 400px;
     background-color: rgb(5, 36, 48);
   }
-=======
+}
 @media only screen and (max-width: 537px) {
->>>>>>> ed8dc28e71159805f3e68101d052fd2d045c5c0b
   .text-part {
     margin-top: 85px;
     position: relative;
