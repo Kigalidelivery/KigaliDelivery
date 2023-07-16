@@ -248,11 +248,7 @@ clear: both;
   margin-bottom: 10px;
   box-shadow: 0px 5px 10px rgba(36, 36, 36, 0.08);
   min-height: 40px;
-<<<<<<< HEAD
   max-width: 95.5% !important;
-=======
-  max-width: 90.5% !important;
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
 
   padding: 2px;
 }
@@ -266,11 +262,7 @@ clear: both;
   margin-right: 100px;
 }
 
-<<<<<<< HEAD
 @media screen and (max-width: 1285px) {
-=======
-@media only screen and (max-width: 768px) {
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
   .upside-holder {
    
     background-repeat: no-repeat;
@@ -323,11 +315,7 @@ clear: both;
 
 
 
-<<<<<<< HEAD
 @media screen and (max-width: 900px) {
-=======
-@media only screen and (max-width: 992px) {
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
   .upside-holder {
    
     background-repeat: no-repeat;
@@ -339,17 +327,12 @@ clear: both;
     position: relative;
   }
   .slogan-f-title {
-<<<<<<< HEAD
     color: #ffffff;
-=======
-    color: #041119;
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
     font-size: 35px;
     float: left;
   }
   .slogan-s-title {
     font-size: 35px;
-<<<<<<< HEAD
     color: #ffffff;
     margin-left: 150px !important;
   }
@@ -359,17 +342,6 @@ clear: both;
   }
   .modalp{
     color: #ffffff;
-=======
-    color: #041119;
-    margin-left: 150px !important;
-  }
-  .slogan-sm-title {
-    color: #000408;
-    margin-left: 0;
-  }
-  .modalp{
-    color: #000408;
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
     margin-left: 0;
   }
   .download-btn {
@@ -420,15 +392,7 @@ clear: both;
     margin-left: 0;
   }
   .modalp{
-<<<<<<< HEAD
     color: #ffffff;
-=======
-    color: #000408;
-    margin-left: 0;
-  }
-  .modalp{
-    color: #000408;
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
     margin-left: 0;
   }
   .nav > li > a {
@@ -464,7 +428,6 @@ clear: both;
     min-height: 40px;
     max-width: 12.5% !important;
     padding: 2px;
-<<<<<<< HEAD
   }
 
 
@@ -556,10 +519,6 @@ clear: both;
 }
 
 }
-=======
-  }
-}
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
@@ -678,11 +637,7 @@ clear: both;
 @import url('https://fonts.googleapis.com/css?family=Heebo:400,700|Open+Sans:400,700');
 
 :root {
-<<<<<<< HEAD
   --color: rgb(5, 36, 48);
-=======
-  --color: #3c3163;
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
   --transition-time: 0.5s;
 }
 
@@ -715,11 +670,7 @@ a {
 .card {
   font-family: 'Heebo';
   --bg-filter-opacity: 0.5;
-<<<<<<< HEAD
   background: url("../images/COURIER.png");
-=======
-  background-image: linear-gradient(rgba(0,0,0,var(--bg-filter-opacity)),rgba(0,0,0,var(--bg-filter-opacity))), var(--bg-img);
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
   height: 20em;
   width: 15em;
   font-size: 1.5em;
@@ -729,7 +680,6 @@ a {
   /*margin: 2em;*/
   display: flex;
   align-items: flex-end;
-<<<<<<< HEAD
   background-size: 20em;
   background-position: center;
   box-shadow: 0 0 5em -1em black;
@@ -775,9 +725,6 @@ a {
   display: flex;
   align-items: flex-end;
   background-size: 20em;
-=======
-  background-size: cover;
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
   background-position: center;
   box-shadow: 0 0 5em -1em black;
   transition: all, var(--transition-time);
@@ -786,10 +733,6 @@ a {
   border: 10px solid #ccc;
   text-decoration: none;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
 .card:hover {
   transform: rotate(0);
 }
@@ -850,21 +793,13 @@ a {
 }
 
 .card:before {
-<<<<<<< HEAD
   
-=======
-  background: #ddd;
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
   width: 250%;
   height: 250%;
 }
 
 .card:after {
-<<<<<<< HEAD
   
-=======
-  background: white;
->>>>>>> 41f4d0223e35c3ef689f6dbec0b83a49a0135158
   width: 200%;
   height: 200%;
 }
